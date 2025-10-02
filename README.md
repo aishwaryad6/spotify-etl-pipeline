@@ -14,6 +14,12 @@ The pipeline performs:
 
 ---
 
+## 🧱 Architecture Diagram
+
+![Architecture Diagram](docs/Data_Diagram.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python**: Data extraction, transformation, and validation  
